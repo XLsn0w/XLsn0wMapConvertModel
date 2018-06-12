@@ -1,0 +1,2 @@
+# XLsn0wMapConvertModel
+XLsn0wMapConvertModel 字典转模型简化
